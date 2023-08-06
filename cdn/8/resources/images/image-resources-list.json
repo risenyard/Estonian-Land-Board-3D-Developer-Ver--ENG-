@@ -1,0 +1,44 @@
+{
+  "1685965844121": {
+    "originalName": "download.png",
+    "fileName": "1685965844121.png",
+    "size": 16272,
+    "url": "${appResourceUrl}/images/widget_26/1685965844121.png",
+    "created": 1685965844121,
+    "resourcesPrefix": "images/widget_26",
+    "referedIds": [],
+    "originId": "1685965844121",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 160,
+    "originalHeight": 214
+  },
+  "1685966294582": {
+    "originalName": "download2.png",
+    "fileName": "1685966294582.png",
+    "size": 17650,
+    "url": "${appResourceUrl}/images/widget_39/1685966294582.png",
+    "created": 1685966294582,
+    "resourcesPrefix": "images/widget_39",
+    "referedIds": [],
+    "originId": "1685966294582",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 160,
+    "originalHeight": 221
+  },
+  "1686039328809": {
+    "originalName": "logo.png",
+    "fileName": "1686039328809.png",
+    "size": 32819,
+    "url": "${appResourceUrl}/images/widget_3/1686039328809.png",
+    "created": 1686039328809,
+    "resourcesPrefix": "images/widget_3",
+    "referedIds": [],
+    "originId": "1686039328809",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 284,
+    "originalHeight": 378
+  }
+}
